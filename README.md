@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23487218/README.md)
 # DeadBot Demo — Ada Lovelace (SIMULATION)
 
 This is a ready-to-upload GitHub repository for the **Interactive Flask DeadBot demo** simulating a **public historical figure** (Ada Lovelace).
