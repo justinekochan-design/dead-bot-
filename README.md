@@ -1,6 +1,6 @@
-# DeadBot Demo — Ada Lovelace (SIMULATION)
+# DeadBot Demo — Liam Payne (SIMULATION)
 
-This is a ready-to-upload GitHub repository for the **Interactive Flask DeadBot demo** simulating a **public historical figure** (Ada Lovelace).
+This is a ready-to-upload GitHub repository for the **Interactive Flask DeadBot demo** simulating a **public historical figure** 
 
 ## What you get
 - `app.py` — Flask app (mock LLM mode, safe-by-default)
